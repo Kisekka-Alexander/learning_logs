@@ -1,0 +1,8 @@
+
+.idea/
+__pycache__
+ll_env/
+media/
+email_folder/
+.vscode/
+python,pycharm+all,django
